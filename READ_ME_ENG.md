@@ -1,7 +1,8 @@
 ﻿This program is in the C # programming language,
 produces finding the area of ​​a figure using a definite integral by the method of curvilinear trapezium,
-where the limits of a definite integral, the entire quadratic function of the form t1 + t2 * x + t3 * x * x,
-including the arithmetic signs "+" and "-" are entered by the user.
+where the limits of a certain integral,
+any quadratic function of the form t1 + t2 * x + t3 * x * x, t1 / t2 * x * t3 * x * x including arithmetic
+the “+”, “-”, “*” and “/” characters are entered by the user.
 The user can also enter any incomplete quadratic function of the form t2 * x + t3 * x * x; t2 * x etc.
 necessarily entering the place of the empty term of the equation "0". Amount of points,
 into which the figure is divided for more accurate finding of the area is equal to 1000,
